@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '33236'
     url: http://www.gutenberg.org/2009/agents/33236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28269#Art-in-Needlework--A-Book-about-Embroidery
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2009-03-07'
 gutenberg_type: Text

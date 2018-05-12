@@ -1,0 +1,33 @@
+_repo: Art-in-Needlework--A-Book-about-Embroidery_28269
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28269-h/images/frontcover.jpg
+creator:
+  authors:
+  - agent_name: Buckle, Mary
+    gutenberg_agent_id: '33237'
+    url: http://www.gutenberg.org/2009/agents/33237
+  - agent_name: Day, Lewis F. (Lewis Foreman)
+    alias: Day, Lewis Foreman
+    birthdate: 1845
+    deathdate: 1910
+    gutenberg_agent_id: '33236'
+    url: http://www.gutenberg.org/2009/agents/33236
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2009-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28269'
+  lccn: 01000390
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Embroidery'
+- !lcc 'TT'
+- !lcsh 'Needlework'
+title: 'Art in Needlework: A Book about Embroidery'
+url: http://www.gutenberg.org/ebooks/28269
